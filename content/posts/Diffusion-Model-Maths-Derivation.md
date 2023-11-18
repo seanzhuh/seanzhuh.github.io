@@ -84,7 +84,7 @@ DDPM adopts a linear schedule, i.e., $T=300,\beta\_1=0.0001,\beta\_T=0.02$.
 
 # Reverse Diffusion
 
-![DDPM](/images/DDPM.png)
+![DDPM](/images/DDPM.png "Image source: [Lilien Weng's Blog](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/#forward-diffusion-process).")
 
 If we know the distribution $q(\bm{x}{t-1}|\bm{x}{t})$, then we can start from $\bm{x}T\sim\mathcal{N}(\bm{0},\mathbf{I})$, 
 then run the reverse process and acquire a sample from the underlying distribution $q(\bm{x})$, synthesizing a novel image from the observed data distribution. 
