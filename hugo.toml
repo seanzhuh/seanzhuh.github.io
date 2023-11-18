@@ -1,0 +1,99 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "sean'Logging"
+theme = 'PaperMod'
+
+enableInlineShortcodes = true
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = true
+pygmentsUseClasses = true
+disqusShortname = "seanzhuh"
+
+[minify]
+disableXML = true
+
+[languages.en]
+languageName = "English"
+weight = 1
+
+[languages.en.taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[[languages.en.menu.main]]
+name = "Posts"
+url = ""
+weight = 1
+
+[[languages.en.menu.main]]
+name = "About"
+url = "about/"
+identifier = "about"
+weight = 2
+
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[params]
+math = true
+comments = true
+env = "production"
+description = "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+author = "Theme PaperMod"
+defaultTheme = "auto"
+ShowShareButtons = true
+ShowReadingTime = true
+displayFullLangName = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowRssButtonInSectionTermList = true
+ShowToc = true
+images = ["papermod-cover.png"]
+
+[params.homeInfoParams]
+Title = "👋 Welcome to sean'Blog"
+Content = """
+Hi, sean here, currently a year-one PhD student @ HKUST, studying computer vision & multi-modal learning.
+- Since I've gone through the same pain when simply there is no online materials that readily pull you out of the mud,
+so I'm documenting my notes in this blog in great depth, hopefully it would also be helpful to you guys.
+"""
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/sean-zhuh"
+
+[[params.socialIcons]]
+name = "googlescholar"
+url = "https://scholar.google.com/citations?user=jkxdiToAAAAJ&hl=en"
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com/SeanZhuh"
+
+[[params.socialIcons]]
+name = "zhihu"
+url = "https://www.zhihu.com/people/zhu-zhao-yang-13-74"
+
+
+[params.assets]
+disableHLJS = true
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]
+noClasses = false
+
+[privacy.twitter]
+disabled = false
+enableDNT = true
+simple = true
+
+[services.twitter]
+disableInlineCSS = true

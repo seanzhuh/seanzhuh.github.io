@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>sean&#39;Logging</title>
+    <link>https://example.org/</link>
+    <description>Recent content on sean&#39;Logging</description>
+    <image>
+      <title>sean&#39;Logging</title>
+      <url>https://example.org/papermod-cover.png</url>
+      <link>https://example.org/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 18 Nov 2023 10:40:31 +0800</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://example.org/about/</link>
+      <pubDate>Sat, 18 Nov 2023 16:10:34 +0800</pubDate>
+      
+      <guid>https://example.org/about/</guid>
+      <description>Just a short bio here, I&amp;rsquo;m a first-year PhD student at CSE department of HKUST, supervised by Prof. Long Chen, check out our LONG Group also. Before that, I obtained my master and bachelor degree both in CSE from XMU (2020 - 2023) and HDU (2015 - 2019), respectively. I was a member of MAC Lab under the guidance of Prof. Rongrong Ji and worked closely with Prof. Jun Yu along my past research journey.</description>
+    </item>
+    
+    <item>
+      <title>Math Derivation of Diffusion Models</title>
+      <link>https://example.org/posts/diffusion-model-maths-derivation/</link>
+      <pubDate>Sat, 18 Nov 2023 10:40:31 +0800</pubDate>
+      
+      <guid>https://example.org/posts/diffusion-model-maths-derivation/</guid>
+      <description>Diffusion models are inspired by non-equilibrium thermodynamics. They define a Markov chain of diffusion steps to slowly add random noise to data, then learn to reverse the diffusion process to construct desired data samples from the noise.
+Forward Diffusion Suppose a multi-variate random variable $\mathbf{X}=[X_1,\dots,X_L] \sim q(\bm{x})$, where $L=H*W*3$ and $\bm{x}=[x_1,\dots,x_L]$, i.e., the observed image, $\bm{x}_0 \in \mathbb{R}^{L}$, is sampled from the underlying true distribution $q(\bm{x})$.
+Starting from the observation $\bm{x}_0$, forward diffusion progressively adds gaussian noise sampled from $\mathcal{N}(\bm{\mu}_t,\bm{\Sigma}_t)$ in $T$ steps, producing a sequence of noisy samples $\bm{x}_1,\dots,\bm{x}_T$.</description>
+    </item>
+    
+    <item>
+      <title>OpenMMLab Framework Flowchart</title>
+      <link>https://example.org/posts/openmmlab-framework-flowchart/</link>
+      <pubDate>Sat, 18 Nov 2023 10:39:17 +0800</pubDate>
+      
+      <guid>https://example.org/posts/openmmlab-framework-flowchart/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
