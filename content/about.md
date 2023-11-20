@@ -3,6 +3,7 @@ title = 'About'
 date = 2023-11-18T16:10:34+08:00
 draft = false
 comments = false
+ShowToc = false
 author = 'Author: Chaoyang Zhu'
 +++
 
@@ -12,8 +13,9 @@ Just a short bio here, I'm a first-year PhD student at [CSE](https://cse.hkust.e
 
 ### Latest News
 
----
+- _18 Nov 2023_: the personal homepage is established.
 
+---
 
 ### Publications
 
@@ -21,7 +23,7 @@ Check out [Google Scholar](https://scholar.google.com/citations?user=jkxdiToAAAA
 
 ---
 
-### Professional Duties
+### Professional Services
 
 - Conference Reviewer: CVPR, ICCV, ICLR, MM
 - Journal Reviewer: TMM, TIP
