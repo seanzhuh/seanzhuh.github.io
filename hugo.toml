@@ -57,7 +57,7 @@ Content = """
 Hi, sean here, currently a year-one PhD student @ HKUST, studying computer vision & multi-modal learning.
 - Since I've gone through the same torture when simply there is no any online tutorial that readily pull you out of the mud,
 so I'm documenting my learning notes as a self-reminder in this blog in depth, hopefully it would also be helpful to you guys out there.
-- Feel free to contact me on any topic via the email shown below. 
+- Feel free to contact me on any topic via the email shown below.
 """
 
 [[params.socialIcons]]
@@ -74,7 +74,7 @@ url = "https://scholar.google.com/citations?user=jkxdiToAAAAJ&hl=en"
 
 [[params.socialIcons]]
 name = "twitter"
-url = "https://twitter.com/SeanZhuh"
+url = "https://twitter.com/seanZhuh27"
 
 [[params.socialIcons]]
 name = "zhihu"
