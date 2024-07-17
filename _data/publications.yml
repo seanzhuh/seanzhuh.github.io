@@ -1,6 +1,6 @@
 main:
 
-  - title: A Survey on Open-Vocabulary Detection and Segmentation: Past, Present, and Future
+  - title: "A Survey on Open-Vocabulary Detection and Segmentation: Past, Present, and Future"
     authors: <strong>Chaoyang Zhu<strong>, Long Chen 
     conference_short: TPAMI
     conference: IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI)</strong>, 2021.
@@ -8,7 +8,7 @@ main:
     code: https://github.com/HKUST-LongGroup/Awesome-Open-Vocabulary-Detection-and-Segmentation
     image: ./assets/img/teaser_example_2.png
 
-  - title: SeqTR: A Simple Yet Universal Network for Visual Grounding
+  - title: "SeqTR: A Simple Yet Universal Network for Visual Grounding"
     authors: <strong>Chaoyang Zhu</strong>, Yiyi Zhou, Yunhang Shen, Gen Luo, Xingjia Pan, Mingbao Lin, Chao Chen, Liujuan Cao, Xiaoshuai Sun, Rongrong Ji 
     conference_short: ECCV
     conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2021.
@@ -17,7 +17,7 @@ main:
     image: ./assets/img/teaser_example_2.png
     notes: Oral Presentation
     
-  - title: TRAR: Routing the Attention Spans in Transformer for Visual Question Answering
+  - title: "TRAR: Routing the Attention Spans in Transformer for Visual Question Answering"
     authors: Yiyi Zhou, Tianhe Ren, <strong>Chaoyang Zhu</strong>, Xiaoshuai Sun, Jianzhuang Liu, Xinghao Ding, Mingliang Xu, Rongrong Ji
     conference_short: ICCV
     conference: International Conference on Computer Vision <strong>(ICCV)</strong>, 2021.
