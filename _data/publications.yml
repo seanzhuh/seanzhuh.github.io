@@ -6,7 +6,7 @@ main:
     conference: IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI)</strong>, 2021.
     pdf: https://arxiv.org/pdf/2307.09220
     code: https://github.com/HKUST-LongGroup/Awesome-Open-Vocabulary-Detection-and-Segmentation
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/ovd-ovs-survey.png
 
   - title: "SeqTR: A Simple Yet Universal Network for Visual Grounding"
     authors: <strong>Chaoyang Zhu</strong>, Yiyi Zhou, Yunhang Shen, Gen Luo, Xingjia Pan, Mingbao Lin, Chao Chen, Liujuan Cao, Xiaoshuai Sun, Rongrong Ji 
@@ -14,7 +14,7 @@ main:
     conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2021.
     pdf: https://arxiv.org/pdf/2203.16265
     code: https://github.com/seanzhuh/SeqTR
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/seqtr.png
     notes: Oral Presentation
     
   - title: "TRAR: Routing the Attention Spans in Transformer for Visual Question Answering"
@@ -23,7 +23,7 @@ main:
     conference: International Conference on Computer Vision <strong>(ICCV)</strong>, 2021.
     pdf: https://openaccess.thecvf.com/content/ICCV2021/html/Zhou_TRAR_Routing_the_Attention_Spans_in_Transformer_for_Visual_Question_ICCV_2021_paper.html
     code: https://github.com/rentainhe/TRAR-VQA
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/trar.png
     
   - title: Spatial Pyramid-Enhanced NetVLAD With Weighted Triplet Loss for Place Recognition
     authors: Jun Yu, <strong>Chaoyang Zhu</strong>, Jian Zhang, Qingming Huang, Dacheng Tao
