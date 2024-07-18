@@ -2,9 +2,9 @@
 layout: homepage
 ---
 
-## Technical Report
+## Blogging
 
-"*Writing is self-instruction and self-development*". My blogs are hosted via [Notion](https://www.notion.so/product), hope they are beneficial to you guys.
+"*Writing is self-instruction and self-development*". The learning curve is high when entering a new area, so my blogs are hosted via [Notion](https://www.notion.so/product) as a reminder.
 
 - [Math Derivation of Diffusion Models](https://kindly-brazil-4ec.notion.site/Generative-Models-de87a540dc1d4dbeb0abd4544e02ae42)
 
