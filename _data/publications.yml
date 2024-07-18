@@ -3,7 +3,7 @@ main:
   - title: "A Survey on Open-Vocabulary Detection and Segmentation: Past, Present, and Future"
     authors: <strong>Chaoyang Zhu</strong>, Long Chen 
     conference_short: TPAMI
-    conference: <strong>TPAMI</strong>, 2023.
+    conference: <strong>TPAMI</strong>, 2024.
     pdf: https://arxiv.org/pdf/2307.09220
     code: https://github.com/HKUST-LongGroup/Awesome-Open-Vocabulary-Detection-and-Segmentation
     image: ./assets/img/ovd-ovs-survey.png
