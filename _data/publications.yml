@@ -9,7 +9,7 @@ main:
     image: ./assets/img/ovd-ovs-survey.png
 
   - title: "SeqTR: A Simple Yet Universal Network for Visual Grounding"
-    authors: Chaoyang Zhu, Yiyi Zhou, Yunhang Shen, Gen Luo, Xingjia Pan, Mingbao Lin, Chao Chen, Liujuan Cao, Xiaoshuai Sun, Rongrong Ji 
+    authors: <strong>Chaoyang Zhu</strong>, Yiyi Zhou, Yunhang Shen, Gen Luo, Xingjia Pan, Mingbao Lin, Chao Chen, Liujuan Cao, Xiaoshuai Sun, Rongrong Ji 
     conference_short: ECCV
     conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2022.
     pdf: https://arxiv.org/pdf/2203.16265
