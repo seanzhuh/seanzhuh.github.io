@@ -27,6 +27,7 @@ main:
     
   - title: "Spatial Pyramid-Enhanced NetVLAD With Weighted Triplet Loss for Place Recognition"
     authors: Jun Yu, Chaoyang Zhu, Jian Zhang, Qingming Huang, Dacheng Tao
+    conference_short: TNNLS
     conference: IEEE Transactions on Neural Networks and Learning Systems <strong>(TNNLS)</strong>, 2019.
     pdf: https://ieeexplore.ieee.org/abstract/document/8700608
     image: ./assets/img/spe-vlad.png
