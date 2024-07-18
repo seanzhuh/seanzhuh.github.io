@@ -2,6 +2,7 @@ main:
 
   - title: "A Survey on Open-Vocabulary Detection and Segmentation: Past, Present, and Future"
     authors: Chaoyang Zhu, Long Chen 
+    conference_short: TPAMI
     conference: IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2307.09220
     code: https://github.com/HKUST-LongGroup/Awesome-Open-Vocabulary-Detection-and-Segmentation
