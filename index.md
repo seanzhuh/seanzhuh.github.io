@@ -8,14 +8,13 @@ Just a short bio here, I'm a first-year PhD student at [CSE](https://cse.hkust.e
 
 ## Research Interests
 
-- **Computer Vision:** grounding, detection, segmentation, 3D reconstruction
-- **Multimodal Learning:** open-vocabulary scene understanding
+I'm interested by many, if not all, topics that in practice, can shape and transform both industry and society, with a primary focus on perception task, especially under the open-world scenario. Recently I've been exploring 3D reconstruction and spacetime intelligence as exemplified by embodied AI. Any research-related issue including collaboration is welcome, please reach me via e-mail w/o hesitance.
 
 ## News
 
 - **[Jul. 2024]** One paper on Instruction-tuned SAM was accepted by **MM**.
-- **[May. 2024]** One survey on open-vocabulary detection & segmentation was accepted by **TPAMI**.
-- **[Jul. 2022]** One paper was accepted by **ECCV'22** as **Oral** presentation.
+- **[May. 2024]** One survey on Open-Vocabulary Perception was accepted by **TPAMI**.
+- **[Jul. 2022]** One paper was accepted by **ECCV'22** as **Oral**.
 
 {% include_relative _includes/publications.md %}
 
