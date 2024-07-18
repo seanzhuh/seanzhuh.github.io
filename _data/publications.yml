@@ -1,7 +1,7 @@
 main:
 
   - title: "A Survey on Open-Vocabulary Detection and Segmentation: Past, Present, and Future"
-    authors: <strong>Chaoyang Zhu</strong>, Long Chen 
+    authors: <strong>Chaoyang Zhu</strong>, Long Chen*
     conference_short: TPAMI
     conference: <strong>TPAMI</strong>, 2024.
     pdf: https://arxiv.org/pdf/2307.09220
@@ -10,7 +10,7 @@ main:
     image: ./assets/img/ovd-ovs-survey.png
 
   - title: "SeqTR: A Simple Yet Universal Network for Visual Grounding"
-    authors: <strong>Chaoyang Zhu</strong>, Yiyi Zhou, Yunhang Shen, Gen Luo, Xingjia Pan, Mingbao Lin, Chao Chen, Liujuan Cao, Xiaoshuai Sun, Rongrong Ji 
+    authors: <strong>Chaoyang Zhu</strong>, Yiyi Zhou, Yunhang Shen, Gen Luo, Xingjia Pan, Mingbao Lin, Chao Chen, Liujuan Cao*, Xiaoshuai Sun, Rongrong Ji 
     conference_short: ECCV
     conference: <strong>ECCV</strong>, 2022.
     pdf: https://arxiv.org/pdf/2203.16265
@@ -19,7 +19,7 @@ main:
     notes: Oral (2.7%)
     
   - title: "TRAR: Routing the Attention Spans in Transformer for Visual Question Answering"
-    authors: Yiyi Zhou, Tianhe Ren, <strong>Chaoyang Zhu</strong>, Xiaoshuai Sun, Jianzhuang Liu, Xinghao Ding, Mingliang Xu, Rongrong Ji
+    authors: Yiyi Zhou, Tianhe Ren, <strong>Chaoyang Zhu</strong>, Xiaoshuai Sun*, Jianzhuang Liu, Xinghao Ding, Mingliang Xu, Rongrong Ji
     conference_short: ICCV
     conference: <strong>ICCV</strong>, 2021.
     pdf: https://openaccess.thecvf.com/content/ICCV2021/html/Zhou_TRAR_Routing_the_Attention_Spans_in_Transformer_for_Visual_Question_ICCV_2021_paper.html
@@ -27,7 +27,7 @@ main:
     image: ./assets/img/trar.png
     
   - title: "Spatial Pyramid-Enhanced NetVLAD With Weighted Triplet Loss for Place Recognition"
-    authors: Jun Yu, <strong>Chaoyang Zhu</strong>, Jian Zhang, Qingming Huang, Dacheng Tao
+    authors: Jun Yu, <strong>Chaoyang Zhu</strong>, Jian Zhang*, Qingming Huang, Dacheng Tao
     conference_short: TNNLS
     conference: <strong>TNNLS</strong>, 2019.
     pdf: https://ieeexplore.ieee.org/abstract/document/8700608
