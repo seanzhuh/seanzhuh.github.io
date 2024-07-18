@@ -3,7 +3,7 @@ main:
   - title: "A Survey on Open-Vocabulary Detection and Segmentation: Past, Present, and Future"
     authors: <strong>Chaoyang Zhu<strong>, Long Chen 
     conference_short: TPAMI
-    conference: IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI)</strong>, 2021.
+    conference: IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2307.09220
     code: https://github.com/HKUST-LongGroup/Awesome-Open-Vocabulary-Detection-and-Segmentation
     image: ./assets/img/ovd-ovs-survey.png
@@ -11,7 +11,7 @@ main:
   - title: "SeqTR: A Simple Yet Universal Network for Visual Grounding"
     authors: <strong>Chaoyang Zhu</strong>, Yiyi Zhou, Yunhang Shen, Gen Luo, Xingjia Pan, Mingbao Lin, Chao Chen, Liujuan Cao, Xiaoshuai Sun, Rongrong Ji 
     conference_short: ECCV
-    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2021.
+    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2022.
     pdf: https://arxiv.org/pdf/2203.16265
     code: https://github.com/seanzhuh/SeqTR
     image: ./assets/img/seqtr.png
