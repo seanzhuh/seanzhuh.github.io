@@ -16,6 +16,6 @@ I'm interested by many, if not all, topics that in practice, can shape and trans
 - **[May. 2024]** One survey on Open-Vocabulary Perception was accepted by **TPAMI**.
 - **[Jul. 2022]** One paper was accepted by **ECCV'22** as **Oral**.
 
-{% include_relative _includes/publications.md %}
-
 {% include_relative _includes/services.md %}
+
+{% include_relative _includes/publications.md %}
