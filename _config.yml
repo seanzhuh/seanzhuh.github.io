@@ -27,7 +27,8 @@ favicon_dark: ./assets/img/favicon.ico
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: false
+# modifed in _layout/homepage.html, "Last modified on xx/xx/xx".
+enable_footnote: true
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
