@@ -6,6 +6,7 @@ main:
     conference: <strong>TPAMI</strong>, 2024.
     pdf: https://arxiv.org/pdf/2307.09220
     code: https://github.com/HKUST-LongGroup/Awesome-Open-Vocabulary-Detection-and-Segmentation
+    zhihu: https://zhuanlan.zhihu.com/p/692846245
     image: ./assets/img/ovd-ovs-survey.png
 
   - title: "SeqTR: A Simple Yet Universal Network for Visual Grounding"
