@@ -18,7 +18,7 @@ main:
     notes: Oral Presentation (Top 2.7%)
     
   - title: "TRAR: Routing the Attention Spans in Transformer for Visual Question Answering"
-    authors: Yiyi Zhou, Tianhe Ren, Chaoyang Zhu, Xiaoshuai Sun, Jianzhuang Liu, Xinghao Ding, Mingliang Xu, Rongrong Ji
+    authors: Yiyi Zhou, Tianhe Ren, <strong>Chaoyang Zhu</strong>, Xiaoshuai Sun, Jianzhuang Liu, Xinghao Ding, Mingliang Xu, Rongrong Ji
     conference_short: ICCV
     conference: International Conference on Computer Vision <strong>(ICCV)</strong>, 2021.
     pdf: https://openaccess.thecvf.com/content/ICCV2021/html/Zhou_TRAR_Routing_the_Attention_Spans_in_Transformer_for_Visual_Question_ICCV_2021_paper.html
@@ -26,7 +26,7 @@ main:
     image: ./assets/img/trar.png
     
   - title: "Spatial Pyramid-Enhanced NetVLAD With Weighted Triplet Loss for Place Recognition"
-    authors: Jun Yu, Chaoyang Zhu, Jian Zhang, Qingming Huang, Dacheng Tao
+    authors: Jun Yu, <strong>Chaoyang Zhu</strong>, Jian Zhang, Qingming Huang, Dacheng Tao
     conference_short: TNNLS
     conference: IEEE Transactions on Neural Networks and Learning Systems <strong>(TNNLS)</strong>, 2019.
     pdf: https://ieeexplore.ieee.org/abstract/document/8700608
