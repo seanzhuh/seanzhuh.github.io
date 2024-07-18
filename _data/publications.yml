@@ -1,7 +1,7 @@
 main:
 
   - title: "A Survey on Open-Vocabulary Detection and Segmentation: Past, Present, and Future"
-    authors: <strong>Chaoyang Zhu<strong>, Long Chen 
+    authors: <strong>Chaoyang Zhu</strong>, Long Chen 
     conference_short: TPAMI
     conference: IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2307.09220
@@ -25,7 +25,7 @@ main:
     code: https://github.com/rentainhe/TRAR-VQA
     image: ./assets/img/trar.png
     
-  - title: Spatial Pyramid-Enhanced NetVLAD With Weighted Triplet Loss for Place Recognition
+  - title: "Spatial Pyramid-Enhanced NetVLAD With Weighted Triplet Loss for Place Recognition"
     authors: Jun Yu, <strong>Chaoyang Zhu</strong>, Jian Zhang, Qingming Huang, Dacheng Tao
     conference_short: TNNLS
     conference: IEEE Transactions on Neural Networks and Learning Systems <strong>(TNNLS)</strong>, 2019.
