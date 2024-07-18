@@ -30,5 +30,5 @@ main:
     conference_short: TNNLS
     conference: IEEE Transactions on Neural Networks and Learning Systems <strong>(TNNLS)</strong>, 2019.
     pdf: https://ieeexplore.ieee.org/abstract/document/8700608
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/spe-vlad.png
     notes: 300+ citations
