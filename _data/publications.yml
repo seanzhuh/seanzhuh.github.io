@@ -15,7 +15,7 @@ main:
     pdf: https://arxiv.org/pdf/2203.16265
     code: https://github.com/seanzhuh/SeqTR
     image: ./assets/img/seqtr.png
-    notes: Oral Presentation
+    notes: Oral Presentation (Top 2.7%)
     
   - title: "TRAR: Routing the Attention Spans in Transformer for Visual Question Answering"
     authors: Yiyi Zhou, Tianhe Ren, Chaoyang Zhu, Xiaoshuai Sun, Jianzhuang Liu, Xinghao Ding, Mingliang Xu, Rongrong Ji
