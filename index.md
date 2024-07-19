@@ -4,9 +4,10 @@ layout: homepage
 
 ## Blogging
 
-"*Writing is self-instruction and self-development*". The learning curve is high when entering a new area, so my blogs are hosted via [Notion](https://www.notion.so/product) as a reminder.
+"*Writing is self-instruction and self-development*". The learning curve is high when entering a new area, so my blogs are hosted via [Notion](https://www.notion.so/product) as a reminder in future, hope it is also beneficial to you guys out there.
 
-- [Math Derivation of Diffusion Models](https://kindly-brazil-4ec.notion.site/Generative-Models-de87a540dc1d4dbeb0abd4544e02ae42)
+- [Tentative Math Derivation of Diffusion Models - Oct, 2023]([https://kindly-brazil-4ec.notion.site/Generative-Models-de87a540dc1d4dbeb0abd4544e02ae42](https://kindly-brazil-4ec.notion.site/Tentative-Diffusion-Models-Derivation-a84ece531d02469694a10497b4dd6293?pvs=25))
+- [OpenMMLab API Framework - Aug, 2023](https://kindly-brazil-4ec.notion.site/OpenMMLab-API-Framework-d1522136db7940b4a42204050960b33f)
 
 ## About Me
 
