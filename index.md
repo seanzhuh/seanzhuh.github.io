@@ -4,7 +4,7 @@ layout: homepage
 
 ## Blogging
 
-"*Writing is self-instruction and self-development*". The learning curve is high when entering a new area, so my blogs are hosted via [Notion](https://www.notion.so/product) as a reminder in future, hope it is also beneficial to you guys out there.
+"*Writing is self-instruction and self-development*". The learning curve is high when entering a new area, online resources are typically copy-paste with little value. So my blogs are hosted via [Notion](https://www.notion.so/product) as a reminder in future, hope it is also beneficial to you guys out there 👋.
 
 - [A Basic Tutorial on 3D Radiance & Semantic Field - Jul, 2024](https://quaint-scarf-c38.notion.site/A-Basic-and-Short-Introduction-to-Radiance-and-Semantic-Field-097174e1fb294b5ab9ecb8ff720dc378)
 - [Tentative Math Derivation of Diffusion Models - Oct, 2023]([https://kindly-brazil-4ec.notion.site/Generative-Models-de87a540dc1d4dbeb0abd4544e02ae42](https://kindly-brazil-4ec.notion.site/Tentative-Diffusion-Models-Derivation-a84ece531d02469694a10497b4dd6293?pvs=25))
