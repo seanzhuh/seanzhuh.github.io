@@ -1,4 +1,11 @@
 main:
+  - title: "Deep Instruction Tuning for Segment Anything Model"
+    authors: Xiaorui Huang, Gen Luo, <strong>Chaoyang Zhu</strong>, Bo Tong, Yiyi Zhou*, Xiaoshuai Sun, Rongrong Ji
+    conference_short: MM
+    conference: <strong>MM</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2404.00650
+    code: https://github.com/wysnzzzz/DIT
+    image: ./assets/img/DiT-SAM.png
 
   - title: "A Survey on Open-Vocabulary Detection and Segmentation: Past, Present, and Future"
     authors: <strong>Chaoyang Zhu</strong>, Long Chen*
