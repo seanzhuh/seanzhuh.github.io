@@ -8,7 +8,7 @@ layout: homepage
 
 - [Beginner-friendly Annotations for CUDA codes of 3D Gaussian Splatting - Jul, 2024](https://github.com/seanzhuh/The-Annotated-3DGS)
 - [A Basic Tutorial on 3D Radiance & Semantic Field - Jul, 2024](https://quaint-scarf-c38.notion.site/A-Basic-and-Short-Introduction-to-Radiance-and-Semantic-Field-097174e1fb294b5ab9ecb8ff720dc378)
-- [Tentative Math Derivation of Diffusion Models - Oct, 2023]([https://kindly-brazil-4ec.notion.site/Generative-Models-de87a540dc1d4dbeb0abd4544e02ae42](https://kindly-brazil-4ec.notion.site/Tentative-Diffusion-Models-Derivation-a84ece531d02469694a10497b4dd6293?pvs=25))
+- [Tentative Math Derivation of Diffusion Models - Oct, 2023](https://kindly-brazil-4ec.notion.site/Tentative-Diffusion-Models-Derivation-a84ece531d02469694a10497b4dd6293)
 - [OpenMMLab API Framework - Aug, 2023](https://kindly-brazil-4ec.notion.site/OpenMMLab-API-Framework-d1522136db7940b4a42204050960b33f)
 
 ## About Me
