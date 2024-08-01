@@ -33,7 +33,7 @@ main:
     code: https://github.com/rentainhe/TRAR-VQA
     image: ./assets/img/trar.png
     
-  - title: "Spatial Pyramid-Enhanced NetVLAD With Weighted Triplet Loss for Place Recognition"
+  - title: "Spatial Pyramid-Enhanced NetVLAD with Weighted Triplet Loss for Place Recognition"
     authors: Jun Yu, <strong>Chaoyang Zhu</strong>, Jian Zhang*, Qingming Huang, Dacheng Tao
     conference_short: TNNLS
     conference: <strong>TNNLS</strong>, 2019.
