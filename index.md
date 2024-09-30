@@ -13,7 +13,7 @@ layout: homepage
 
 ## About Me
 
-Just a short bio here, I'm a first-year PhD student at [CSE](https://cse.hkust.edu.hk/) department of [HKUST](https://hkust.edu.hk/), supervised by Prof. [Long Chen](https://zjuchenlong.github.io/), check out our [LONG Group](https://long-group.cse.ust.hk/) also. Before that, I obtained my master and bachelor degree both in CSE from [XMU](https://www.xmu.edu.cn/) (2020 - 2023) and [HDU](https://www.hdu.edu.cn/main.htm) (2015 - 2019), respectively. I was a member of [MAC Lab](https://mac.xmu.edu.cn/index.htm) under the guidance of Prof. [Rongrong Ji](https://scholar.google.com/citations?user=lRSD7PQAAAAJ&hl=en&oi=ao) and worked closely with Prof. [Jun Yu](https://scholar.google.com/citations?user=3XTEwtAAAAAJ&hl=en) along my past research journey. I have also interned at Tencent Youtu Lab (Jul. 2021 - Mar. 2022), Shanghai, where I was awarded the star of future prize.
+Just a short bio here, I am a first-year PhD student at [MAC Lab](https://mac.xmu.edu.cn/index.htm) in [XMU](https://www.xmu.edu.cn/) under the guidance of Prof. [Rongrong Ji](https://scholar.google.com/citations?user=lRSD7PQAAAAJ&hl=en&oi=ao). Before that, I obtained my master and bachelor degree both in CSE from XMU (2020 - 2023) and [HDU](https://www.hdu.edu.cn/main.htm) (2015 - 2019), respectively. I have also interned at Tencent Youtu Lab (Jul. 2021 - Mar. 2022), Shanghai, where I was awarded the star of future prize.
 
 ## Research Interests
 
@@ -21,8 +21,10 @@ I'm interested by many, if not all, topics that in practice, can shape and trans
 
 ## News
 
+- **[Oct. 2024]** Coming back to MAC Lab.
 - **[Jul. 2024]** One paper on Instruction-tuned SAM was accepted by **MM**.
 - **[May. 2024]** One survey on Open-Vocabulary Perception was accepted by **TPAMI**.
+- **[Aug. 2024]** Joining **Hong Kong University of Science and Technology** as a PhD candidate.
 - **[Jul. 2022]** One paper was accepted by **ECCV'22** as **Oral**.
 
 {% include_relative _includes/services.md %}
