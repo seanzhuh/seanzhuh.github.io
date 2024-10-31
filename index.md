@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Just a short bio here, currently I'm a first year PhD student at [MAC Lab](https://mac.xmu.edu.cn/index.htm) in [XMU](https://www.xmu.edu.cn/) under the guidance of Prof. [Rongrong Ji](https://scholar.google.com/citations?user=lRSD7PQAAAAJ&hl=en&oi=ao). Before that, I obtained my master and bachelor degree both in CSE from XMU (2020 - 2023) and [HDU](https://www.hdu.edu.cn/main.htm) (2015 - 2019), respectively. I have also interned at Tencent Youtu Lab (Jul. 2021 - Mar. 2022), Shanghai, where I was awarded the star of future prize.
+Just a short bio here, currently I'm a first year PhD student at [MAC Lab](https://mac.xmu.edu.cn/index.htm) in [XMU](https://www.xmu.edu.cn/) under the guidance of Prof. [Rongrong Ji](https://scholar.google.com/citations?user=lRSD7PQAAAAJ&hl=en&oi=ao). Before that, I obtained my master and bachelor degree both in CSE from XMU (2020 - 2023) and [HDU](https://www.hdu.edu.cn/main.htm) (2015 - 2019), respectively. I have also interned at Tencent [Youtu Lab](https://open.youtu.qq.com/#/open) (Jul. 2021 - Mar. 2022), Shanghai.
 
 ## Research Interests
 
@@ -12,7 +12,7 @@ I'm interested by many, if not all, topics that in practice, can shape and trans
 
 ## Prospective Collaboration
 
-I'm building a team now. Extremely self-motivated post graduates are welcome if you are interested in my topic, please reach me via e-mail in advance. 
+**I'm building a team now.** Extremely self-motivated post graduates are welcome if you are interested in my topic, please reach me via e-mail in advance. 
 
 ## Blogging
 
@@ -34,3 +34,10 @@ I'm building a team now. Extremely self-motivated post graduates are welcome if 
 {% include_relative _includes/services.md %}
 
 {% include_relative _includes/publications.md %}
+
+## Awards
+
+- Outstanding PGTA honorable mentions by CSE dept, HKUST
+- Star of future prize awarded by Youtu Lab, Tencent
+- Outstanding graduate mentions by HDU
+
