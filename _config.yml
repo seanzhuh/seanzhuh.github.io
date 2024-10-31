@@ -1,8 +1,8 @@
 # Basic Information 
 title: Chaoyang Zhu
-position: Ph.D. in CSE
-affiliation: HKUST, Clear Water Bay, HK
-office: Room 4208 (via lift 19)
+position: Ph.D. in Informatics, XMU
+affiliation: Media Analytics and Computing Lab
+office: Room 209, 5th Building, Xiang'an Campus
 email: sean.zhuh@gmail.com
 
 # Search Engine Optimization (SEO)
@@ -14,7 +14,7 @@ canonical: https://seanzhuh.github.io/
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=jkxdiToAAAAJ&hl=zh-CN
-cv_link: assets/resume.pdf
+# cv_link: assets/resume.pdf
 github_link: https://github.com/seanzhuh
 # linkedin: https://www.linkedin.com/
 twitter: https://x.com/seanZhuh27
