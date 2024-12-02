@@ -31,7 +31,7 @@ main:
     pdf: https://arxiv.org/pdf/2203.16265
     code: https://github.com/seanzhuh/SeqTR
     image: ./assets/img/seqtr.png
-    notes: Oral (2.7%), 100+ citations
+    notes: Oral (2.7%), 150+ citations
     
   - title: "TRAR: Routing the Attention Spans in Transformer for Visual Question Answering"
     authors: Yiyi Zhou, Tianhe Ren, <strong>Chaoyang Zhu</strong>, Xiaoshuai Sun*, Jianzhuang Liu, Xinghao Ding, Mingliang Xu, Rongrong Ji
@@ -40,6 +40,7 @@ main:
     pdf: https://openaccess.thecvf.com/content/ICCV2021/html/Zhou_TRAR_Routing_the_Attention_Spans_in_Transformer_for_Visual_Question_ICCV_2021_paper.html
     code: https://github.com/rentainhe/TRAR-VQA
     image: ./assets/img/trar.png
+    notes: 100+ citations
     
   - title: "Spatial Pyramid-Enhanced NetVLAD with Weighted Triplet Loss for Place Recognition"
     authors: Jun Yu, <strong>Chaoyang Zhu</strong>, Jian Zhang*, Qingming Huang, Dacheng Tao
