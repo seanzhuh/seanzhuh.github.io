@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-> The devil lies in the details, but also macros.
+**"The devil lies in the details, but also macros."**
 
 Just a short bio here, currently I'm a first year PhD student at [MAC Lab](https://mac.xmu.edu.cn/index.htm) in [XMU](https://www.xmu.edu.cn/) under the guidance of Prof. [Rongrong Ji](https://scholar.google.com/citations?user=lRSD7PQAAAAJ&hl=en&oi=ao). Before that, I obtained my master and bachelor degree both in CSE from XMU (2020 - 2023) and [HDU](https://www.hdu.edu.cn/main.htm) (2015 - 2019), respectively. I have also interned at Tencent [Youtu Lab](https://open.youtu.qq.com/#/open) (Jul. 2021 - Mar. 2022), Shanghai.
 
