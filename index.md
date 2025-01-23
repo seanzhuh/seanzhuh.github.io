@@ -27,6 +27,7 @@ I'm interested by many, if not all, topics that in practice, can shape and trans
 
 ## News
 
+- **[Jan. 2025]** One paper on Open-vocabulary Detection was accepted by **ICLR**.
 - **[Oct. 2024]** Coming back to MAC Lab.
 - **[Jul. 2024]** One paper on Instruction-tuned SAM was accepted by **MM**.
 - **[May. 2024]** One survey on Open-Vocabulary Perception was accepted by **TPAMI**.
