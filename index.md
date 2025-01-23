@@ -31,7 +31,7 @@ I'm interested by many, if not all, topics that in practice, can shape and trans
 - **[Oct. 2024]** Coming back to MAC Lab.
 - **[Jul. 2024]** One paper on Instruction-tuned SAM was accepted by **MM**.
 - **[May. 2024]** One survey on Open-Vocabulary Perception was accepted by **TPAMI**.
-- **[Aug. 2024]** Joining **Hong Kong University of Science and Technology** as a PhD candidate.
+- **[Aug. 2023]** Joining **Hong Kong University of Science and Technology** as a PhD candidate.
 - **[Jul. 2022]** One paper was accepted by **ECCV'22** as **Oral**.
 
 {% include_relative _includes/services.md %}
