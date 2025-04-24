@@ -4,7 +4,7 @@ main:
     conference_short: ICLR
     conference: <strong>ICLR</strong> 2025.
     pdf: https://openreview.net/forum?id=JU9oHs7ivN&referrer=%5BTasks%5D(%2Ftasks)
-    # code: https://github.com/wysnzzzz/DIT
+    code: https://github.com/ZCHUHan/CCKT-Det
     image: ./assets/img/CCKT-Det.png
     
   - title: "Deep Instruction Tuning for Segment Anything Model"
