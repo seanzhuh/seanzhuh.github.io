@@ -1,8 +1,8 @@
 main:
   - title: "Pseudo-Label Quality Decoupling and Correction for Semi-Supervised Instance Segmentation"
     authors: Jianghang Lin, Yilin Lu, Yunhang Shen, <strong>Chaoyang Zhu</strong>, Shengchuan Zhang, Liujuan Cao, Rongrong Ji
-    conference_short: ICCV
-    conference: <strong>ICCV (under review)</strong> 2025.
+    conference_short: NeurIPS
+    conference: <strong>NeurIPS (under review)</strong> 2025.
     pdf: https://arxiv.org/abs/2505.11075
     # code: https://github.com/ZCHUHan/CCKT-Det
     image: ./assets/img/PLDC.png
