@@ -1,11 +1,12 @@
 main:
-  - title: "Pseudo-Label Quality Decoupling and Correction for Semi-Supervised Instance Segmentation"
-    authors: Jianghang Lin, Yilin Lu, Yunhang Shen, <strong>Chaoyang Zhu</strong>, Shengchuan Zhang, Liujuan Cao, Rongrong Ji
-    conference_short: NeurIPS
-    conference: <strong>NeurIPS (under review)</strong> 2025.
-    pdf: https://arxiv.org/abs/2505.11075
+  - title: "Robust Pseudo-Labeling via Decoupled Class-Aware Filtering and Dynamic Category Correction"
+    authors: Jianghang Lin, Yilin Lu, <strong>Chaoyang Zhu</strong>, Yunhang Shen, Shengchuan Zhang, Liujuan Cao, Rongrong Ji
+    conference_short: AAAI
+    conference: <strong>AAAI</strong> 2026.
+    pdf: https://openreview.net/forum?id=oWvSCSp1sd&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DAAAI.org%2F2026%2FConference%2FAuthors%23your-submissions)
     # code: https://github.com/ZCHUHan/CCKT-Det
     image: ./assets/img/PLDC.png
+    notes: Oral
     
   - title: "Cyclic Contrastive Knowledge Transfer for Open-Vocabulary Object Detection"
     authors: Chuhan Zhang, <strong>Chaoyang Zhu</strong>, Pingcheng Dong, Long Chen, Dong Zhang*
